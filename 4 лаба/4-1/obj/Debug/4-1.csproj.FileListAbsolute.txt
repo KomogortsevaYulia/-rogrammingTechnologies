@@ -1,0 +1,20 @@
+C:\Users\Юлия\Desktop\4-1\bin\Debug\4-1.exe.config
+C:\Users\Юлия\Desktop\4-1\bin\Debug\4-1.exe
+C:\Users\Юлия\Desktop\4-1\bin\Debug\4-1.pdb
+C:\Users\Юлия\Desktop\4-1\obj\Debug\4-1.csprojAssemblyReference.cache
+C:\Users\Юлия\Desktop\4-1\obj\Debug\_4_1.Form1.resources
+C:\Users\Юлия\Desktop\4-1\obj\Debug\_4_1.Properties.Resources.resources
+C:\Users\Юлия\Desktop\4-1\obj\Debug\4-1.csproj.GenerateResource.cache
+C:\Users\Юлия\Desktop\4-1\obj\Debug\4-1.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\Desktop\4-1\obj\Debug\4-1.exe
+C:\Users\Юлия\Desktop\4-1\obj\Debug\4-1.pdb
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\4 лаба\4-1\bin\Debug\4-1.exe.config
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\4 лаба\4-1\bin\Debug\4-1.exe
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\4 лаба\4-1\bin\Debug\4-1.pdb
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\4 лаба\4-1\obj\Debug\4-1.csprojAssemblyReference.cache
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\4 лаба\4-1\obj\Debug\_4_1.Form1.resources
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\4 лаба\4-1\obj\Debug\_4_1.Properties.Resources.resources
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\4 лаба\4-1\obj\Debug\4-1.csproj.GenerateResource.cache
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\4 лаба\4-1\obj\Debug\4-1.csproj.CoreCompileInputs.cache
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\4 лаба\4-1\obj\Debug\4-1.exe
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\4 лаба\4-1\obj\Debug\4-1.pdb
