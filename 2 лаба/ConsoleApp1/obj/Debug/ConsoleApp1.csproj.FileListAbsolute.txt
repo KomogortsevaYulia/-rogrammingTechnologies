@@ -1,0 +1,14 @@
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\2 итоговый\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\2 итоговый\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\2 итоговый\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\2 итоговый\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\2 итоговый\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\2 итоговый\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Юлия\Институт\2 курс\Технология програмирования\Лабы\2 итоговый\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
